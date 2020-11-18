@@ -25,6 +25,6 @@ DataType GetData(Node *, DataType);
 Node *Find(Node *, DataType);
 void Print(Node *);
 void ClearList(Node *);
-DataType CreataList(Node *, int, int);
+DataType CreateList(Node *, int, int);
 
 #endif
