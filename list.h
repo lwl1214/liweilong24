@@ -1,5 +1,5 @@
-#ifndef listg_h
-#define listg_h
+#ifndef list_h
+#define list_h
 #include <stdlib.h>
 #include <stdio.h>
 
